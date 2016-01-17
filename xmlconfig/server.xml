@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<serverconfig>
+<user>
+    <username>1</username>
+    <userpwd>1</userpwd>
+</user>
+<project>
+    <Id>1</Id>
+    <Name>HitPool</Name>
+    <Path>C:\Android\HitPool</Path>
+</project>
+</serverconfig>
